@@ -6,7 +6,6 @@
 
 ### /*¿Porque entrar en la piscina? */
 
-<br>
 Tras mi corta experiencia en 42, al haber pasado la piscina (el proceso de selección) y entrado en el curso, quiero incitar a las personas que estén indecisos de si probar la experiencia 42 a tirarse de cabeza a la piscina.
 Estas son mis razones:
 - Es una oportunidad única donde aprendes un montón de conceptos de programación en un ritmo acelerado.
@@ -20,14 +19,18 @@ Ya podéis ir cerrando este GitHub.
 Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, bueno, por aquí os dejo mi experiencia en la piscina, aunque advierto, es mejor adentrarse sin tener mucha idea y ya si después necesitáis ayuda podéis pararos a buscar información.
 
 La Piscina te enseña las siguientes habilidades:
-- Programación en C
-- Unix - Comandos de Shell
-- Resiliencia a las adversidades.
-- Autoaprendizaje
-- Gestion del tiempo
-- Trabajo en equipo
+### 💻Programación en C
+### 🐧Unix - Comandos de Shell
+### 🔒Resiliencia a las adversidades.
+### 👨‍🎓Autoaprendizaje
+### ⏱️Gestion del tiempo
+### 💪Trabajo en equipo
 
 ## Proyectos de la piscina: 
+#### TIP: Entiende el código si vas a cogerlo de internet. Si copias sin entender el porque no aprendes nada.
+
+#### PD. Antes de nada, si no entiendes una pregunta o como proceder, pregunta a tus compañeros 42 se basa en el peer to peer!
+
 (Yo en la piscina termine hasta el 07 e intente todos los rushes, ahora, una vez dentro del curso, voy a ir intentado completar lo que me falta, aunque no hay necesidad.)
 
 <br>
