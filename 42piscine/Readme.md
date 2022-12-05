@@ -37,11 +37,17 @@ Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, buen
 
 ### [Shell 00]
 ### [Shell 01]
-### [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
-### [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) - Pointers and If Statements
-### [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) - Introduction To Strings and Arrays
-### [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) - String Functions, Manipulation and Concatanation
-### [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) - Analysing String Qualities and Manipulating Ints
-### [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) - Mathematical Concepts in C
-### [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) - Understanding Argc and Argv
-### [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) - Memory Allocation
+### [C00](https://github.com/destrada-s/42_School_Todo) - Introduction to C
+### [C01](https://github.com/destrada-s/42_School_Todo) - Pointers and If Statements
+### [C02](https://github.com/destrada-s/42_School_Todo) - Introduction To Strings and Arrays
+### [C03](https://github.com/destrada-s/42_School_Todo) - String Functions, Manipulation and Concatanation
+### [C04](https://github.com/destrada-s/42_School_Todo) - Analysing String Qualities and Manipulating Ints
+### [C05](https://github.com/destrada-s/42_School_Todo) - Mathematical Concepts in C
+### [C06](https://github.com/destrada-s/42_School_Todo) - Understanding Argc and Argv
+### [C07](https://github.com/destrada-s/42_School_Todo) - Memory Allocation
+### [C08](https://github.com/destrada-s/42_School_Todo) - 
+### [C09](https://github.com/destrada-s/42_School_Todo) -
+### [C10](https://github.com/destrada-s/42_School_Todo) - 
+### [C11](https://github.com/destrada-s/42_School_Todo) -
+### [C12](https://github.com/destrada-s/42_School_Todo) - 
+### [C13](https://github.com/destrada-s/42_School_Todo) - 
