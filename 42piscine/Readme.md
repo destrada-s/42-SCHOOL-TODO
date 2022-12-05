@@ -34,7 +34,9 @@ La Piscina te enseña las siguientes habilidades:
 (Yo en la piscina termine hasta el C07 e intente todos los rushes, ahora, una vez dentro del curso, voy a ir intentado completar lo que me falta, aunque no hay necesidad.)
 [subjects]
 <br>
-<img width="750" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/114681445/205595525-3694de50-b862-4bc3-886b-91fe8b0efe48.png">
+<div align= "center"
+<img width="650" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/114681445/205595525-3694de50-b862-4bc3-886b-91fe8b0efe48.png">
+</div>
 ### [Shell 00]
 ### [Shell 01]
 ### [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
