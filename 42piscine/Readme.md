@@ -6,7 +6,7 @@
 
 ### /*¿Porque entrar en la piscina? */
 
-Tras mi corta experiencia en 42, al haber pasado la piscina (el proceso de selección) y entrado en el curso, quiero incitar a las personas que estén indecisos de si probar la experiencia 42 a tirarse de cabeza a la piscina.
+Tras mi corta experiencia en 42, al haber pasado la piscina (el proceso de selección) y entrado en el curso, me gustaría convencer a las personas que estén indecisos de si probar la experiencia 42 a tirarse de cabeza a la piscina.
 Estas son mis razones:
 - Es una oportunidad única donde aprendes un montón de conceptos de programación en un ritmo acelerado.
 - Descubres de verdad si la programación te gusta y si quieres dedicarle el tiempo necesario para aprenderla.
