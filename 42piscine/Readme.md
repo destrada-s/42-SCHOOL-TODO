@@ -1,7 +1,9 @@
 <div align= "center">
 <img src = "https://user-images.githubusercontent.com/114681445/205611972-f2f1201a-c8a9-43b7-8e9a-baf53d8fb399.gif"  width="250">
 </div>
+
 # Piscina 
+
 /*¿Porque entrar en la piscina? */
 <br>
 Tras mi corta experiencia en 42, al haber pasado la piscina (el proceso de selección) y entrado en el curso, quiero incitar a las personas que estén indecisos de si probar la experiencia 42 a tirarse de cabeza a la piscina.
