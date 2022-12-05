@@ -22,6 +22,9 @@ La Piscina te enseña las siguientes habilidades:
 - Programación en C
 - Unix - Comandos de Shell
 - Resiliencia a las adversidades.
+- Autoaprendizaje
+- Gestion del tiempo
+- Trabajo en equipo
 
 Proyectos de la piscina:
 (Yo en la piscina termine hasta el 07 e intente todos los rushes, ahora una vez dentro del curso he ido completando lo que me faltaba, aunque no hay necesidad.)
