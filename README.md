@@ -33,6 +33,8 @@ La Piscina te enseña las siguientes habilidades:
 - Resiliencia a las adversidades.
 
 Proyectos de la piscina:
+
+<br>
 <img width="750" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/114681445/205595525-3694de50-b862-4bc3-886b-91fe8b0efe48.png">
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
