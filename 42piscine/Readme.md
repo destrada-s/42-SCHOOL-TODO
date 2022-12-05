@@ -30,7 +30,7 @@ La Piscina te enseña las siguientes habilidades:
 
 #### PD. Antes de nada, si no entiendes una pregunta o como proceder, pregunta a tus compañeros, 42 se basa en el peer to peer!
 
-(Yo en la piscina termine hasta el C07 e intente todos los rushes, ahora, una vez dentro del curso, voy a ir intentado completar lo que me falta, aunque no hay necesidad.)
+(Yo en la piscina termine hasta el C07 e intente todos los rushes, ahora, una vez dentro del curso, voy a ir intentando completar lo que me falta, aunque no hay necesidad.)
 <br>
 <div align= "center">
 <img width="450" height="500" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/114681445/205595525-3694de50-b862-4bc3-886b-91fe8b0efe48.png">
