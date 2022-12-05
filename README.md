@@ -8,11 +8,11 @@ Iniciándose en Francia y fundada en España por fundación telefónica, 42 es u
 <br>
 Esta formación esta formada por varias etapas: 
 <br> <br>
-**1. [El proceso de selección - Piscina](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine)**
+## 1. [El proceso de selección - Piscina](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine)
 <br>
-**2. Curso principal**
+## 2. Curso principal
 <br>
-**3. Las Distintas ramas de especialización.**
+## 3. Las Distintas ramas de especialización.
 <br>
 <br>
 /*
