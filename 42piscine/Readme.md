@@ -45,9 +45,9 @@ Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, buen
 ### [C05](https://github.com/destrada-s/42_School_Todo) - Mathematical Concepts in C
 ### [C06](https://github.com/destrada-s/42_School_Todo) - Understanding Argc and Argv
 ### [C07](https://github.com/destrada-s/42_School_Todo) - Memory Allocation
-### [C08](https://github.com/destrada-s/42_School_Todo) - 
-### [C09](https://github.com/destrada-s/42_School_Todo) -
-### [C10](https://github.com/destrada-s/42_School_Todo) - 
-### [C11](https://github.com/destrada-s/42_School_Todo) -
-### [C12](https://github.com/destrada-s/42_School_Todo) - 
-### [C13](https://github.com/destrada-s/42_School_Todo) - 
+### [C08](https://github.com/destrada-s/42_School_Todo) - Introduction to files.h
+### [C09](https://github.com/destrada-s/42_School_Todo) - Library.h && split
+### [C10](https://github.com/destrada-s/42_School_Todo) - Makefile && recreate system commands 
+### [C11](https://github.com/destrada-s/42_School_Todo) - functions by parameters
+### [C12](https://github.com/destrada-s/42_School_Todo) - Linked lists 
+### [C13](https://github.com/destrada-s/42_School_Todo) - Binary Trees
