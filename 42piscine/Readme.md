@@ -1,5 +1,5 @@
 <div align= "center">
-<img src = "https://user-images.githubusercontent.com/114681445/205611972-f2f1201a-c8a9-43b7-8e9a-baf53d8fb399.gif">
+<img src = "https://user-images.githubusercontent.com/114681445/205611972-f2f1201a-c8a9-43b7-8e9a-baf53d8fb399.gif"  width="250">
 </div>
 # Piscina 
 /*¿Porque entrar en la piscina? */
