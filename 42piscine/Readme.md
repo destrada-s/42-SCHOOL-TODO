@@ -26,8 +26,8 @@ La Piscina te enseña las siguientes habilidades:
 - Gestion del tiempo
 - Trabajo en equipo
 
-Proyectos de la piscina:
-(Yo en la piscina termine hasta el 07 e intente todos los rushes, ahora una vez dentro del curso he ido completando lo que me faltaba, aunque no hay necesidad.)
+## Proyectos de la piscina: 
+(Yo en la piscina termine hasta el 07 e intente todos los rushes, ahora, una vez dentro del curso, voy a ir intentado completar lo que me falta, aunque no hay necesidad.)
 
 <br>
 <img width="750" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/114681445/205595525-3694de50-b862-4bc3-886b-91fe8b0efe48.png">
