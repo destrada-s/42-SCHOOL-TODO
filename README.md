@@ -7,7 +7,7 @@
 Iniciándose en Francia y fundada en España por fundación telefónica, 42 es uno de los campus de programación más innovadores del mundo. Sin clases, sin libros, sin límite de edad, abierto 24/7 y gratuito.
 <br>
 Esta formación esta formada por varias etapas: 
-<br>
+<br> <br>
 **1. [El proceso de selección - Piscina](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine)**
 <br>
 **2. Curso principal**
