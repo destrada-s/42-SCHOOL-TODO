@@ -18,7 +18,7 @@ Ya podéis ir cerrando este GitHub.
 
 Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, bueno, por aquí os dejo mi experiencia en la piscina, aunque advierto, es mejor adentrarse sin tener mucha idea y ya si después necesitáis ayuda podéis pararos a buscar información.
 
-La Piscina te enseña las siguientes habilidades:
+**La Piscina te enseña las siguientes skills:**
 - **💻 Programación en C**
 - **🐧 Unix - Comandos de Shell**
 - **🔒 Resiliencia a las adversidades.**
