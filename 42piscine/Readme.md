@@ -38,12 +38,12 @@ Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, buen
 ### [Shell00](https://github.com/destrada-s/42_School_Todo)
 ### [Shell01](https://github.com/destrada-s/42_School_Todo)
 ### [C00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c00) - Introduction to C
-### [C01](https://github.com/destrada-s/42_School_Todotree/main/42piscine/c01) - Pointers and If Statements
-### [C02](https://github.com/destrada-s/42_School_Todotree/main/42piscine/c02) - Introduction To Strings and Arrays
+### [C01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c01) - Pointers and If Statements
+### [C02](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c02) - Introduction To Strings and Arrays
 ### [C03](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c03) - String Functions, Manipulation and Concatanation
 ### [C04](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c04) - Analysing String Qualities and Manipulating Ints
-### [C05](https://github.com/destrada-s/42_School_Todotree/main/42piscine/c05) - Mathematical Concepts in C
-### [C06](https://github.com/destrada-s/42_School_Todotree/main/42piscine/c06) - Understanding Argc and Argv
+### [C05](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c05) - Mathematical Concepts in C
+### [C06](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c06) - Understanding Argc and Argv
 ### [C07](https://github.com/destrada-s/42_School_Todo) - Memory Allocation
 ### [C08](https://github.com/destrada-s/42_School_Todo) - Introduction to files.h
 ### [C09](https://github.com/destrada-s/42_School_Todo) - Library.h && split
