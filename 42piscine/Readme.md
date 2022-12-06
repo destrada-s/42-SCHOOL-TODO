@@ -35,8 +35,8 @@ Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, buen
 
 ## Proyectos de la piscina: 
 
-### [Shell00](https://github.com/destrada-s/42_School_Todo)
-### [Shell01](https://github.com/destrada-s/42_School_Todo)
+### [Shell00](https://github.com/destrada-s/42_School_Todo) - Introduction to terminal commands
+### [Shell01](https://github.com/destrada-s/42_School_Todo) - More advanced commands (do not have to complete to advance)
 ### [C00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c00) - Introduction to C
 ### [C01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c01) - Pointers and If Statements
 ### [C02](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c02) - Introduction To Strings and Arrays
