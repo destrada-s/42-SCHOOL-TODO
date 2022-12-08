@@ -1,23 +1,21 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_is_negative.c                                   :+:      :+:    :+:   */
+/*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: destrada <destrada@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/11 11:06:49 by destrada          #+#    #+#             */
-/*   Updated: 2022/12/08 08:03:35 by destrada         ###   ########.fr       */
+/*   Created: 2022/12/08 12:13:15 by destrada          #+#    #+#             */
+/*   Updated: 2022/12/08 12:13:16 by destrada         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include    <unistd.h>
+#include <stdio.h>
 
-void	ft_is_negative(int n)
+void	ft_print_combn(int n);
+
+int	main(void)
 {
-	char	w;
-
-	w = 'P';
-	if (n < 0)
-		w = 'N';
-	write(1, &w, 1);
+	ft_print_combn(3);
+	return (0);
 }
