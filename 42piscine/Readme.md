@@ -35,19 +35,23 @@ Ahora, habrá gente que necesite un pequeño empujón y algo de dirección, buen
 
 ## Proyectos de la piscina: 
 
-### [Shell00](https://github.com/destrada-s/42_School_Todo) - Introduction to terminal commands
-### [Shell01](https://github.com/destrada-s/42_School_Todo) - More advanced commands (do not have to complete to advance)
-### [C00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c00) - Introduction to C [100%]
-### [C01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c01) - Pointers and If Statements [100%]
+### [Shell00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/shell00) - Introduction to terminal commands [100%] 💯
+### [Shell01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/shell00) - More advanced commands (don't have to complete to advance) [75%]
+### [C00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c00) - Introduction to C [100%] 💯
+### [C01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c01) - Pointers and If Statements [100%] 💯
 ### [C02](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c02) - Introduction To Strings and Arrays
 ### [C03](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c03) - String Functions, Manipulation and Concatanation
 ### [C04](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c04) - Analysing String Qualities and Manipulating Ints
 ### [C05](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c05) - Mathematical Concepts in C
 ### [C06](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c06) - Understanding Argc and Argv [100%]
-### [C07](https://github.com/destrada-s/42_School_Todo) - Memory Allocation
-### [C08](https://github.com/destrada-s/42_School_Todo) - Introduction to files.h
-### [C09](https://github.com/destrada-s/42_School_Todo) - Library.h && split
-### [C10](https://github.com/destrada-s/42_School_Todo) - Makefile && recreate system commands 
-### [C11](https://github.com/destrada-s/42_School_Todo) - functions by parameters
-### [C12](https://github.com/destrada-s/42_School_Todo) - Linked lists 
-### [C13](https://github.com/destrada-s/42_School_Todo) - Binary Trees
+### [C07](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c07) - Memory Allocation
+### [C08](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c08) - Introduction to files.h
+### [C09](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c09) - Library.h && split
+### [C10](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c10) - Makefile && recreate system commands 
+### [C11](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c11) - functions by parameters
+### [C12](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c12) - Linked lists 
+### [C13](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/c13) - Binary Trees
+### [Rush00](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/rush00) -
+### [Rush01](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/rush01) -
+### [Rush02](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/rush02) -
+### [BSQ](https://github.com/destrada-s/42_School_Todo/tree/main/42piscine/bsq) -
